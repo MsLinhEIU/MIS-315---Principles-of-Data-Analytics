@@ -11,6 +11,6 @@ Each topic folder includes Python notebooks and datasets:
 2. **Logistic Regression:** Binary Logistic Regression and Multinomial Logistic Regression  
 3. **Forecasting with Time Series:** Smoothing Methods, Holt–Winters, and the ARIMA Family
 ________________________________________
-💖 **Support**
 
+💖 **Support**
 If you find this repository useful, please ⭐ star it and follow my profile — your support keeps me motivated to share more projects!
